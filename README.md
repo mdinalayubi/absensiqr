@@ -39,9 +39,9 @@ Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code adalah sebuah proyek yang b
 
 ### Tampilan Absen Masuk dan Pulang
 
-![img](web/1.png)
-![img](web/2.png)
-![img](web/3.png)
+|                                                                                                    |                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
+| ![img](web/2.png) | ![img](web/3.png) |
 
 ### Tampilan Login Petugas
 
