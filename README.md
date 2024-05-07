@@ -1,3 +1,11 @@
+|       | Anggota |
+| ----------- | ----------- |
+|       | Muhammad Din Al Ayubi (312210293) |
+|       | Muhammad Albedri (312210290) |
+|       | Roswanda Nuraini (312210328) |
+|       | Yudi Fermana (312210321) |
+| Kelas   | TI.22.A.3        |
+| Tugas   | UAS Pemograman Web        |
 # Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code
 
 ![img](web/4.png)
@@ -182,3 +190,5 @@ Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini.
 | [Demo-on]() | [YouTube]() | [Laporan]()
 - [mdinalayubi](https://www.github.com/mdinalayubi)
 - [roswanda](https://www.github.com/roswanda11)
+- [Albedri](https://www.github.com/Albedri211)
+- [Yudifermana](https://www.github.com/Yudifermana)
