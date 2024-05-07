@@ -179,5 +179,6 @@ Jangan lupa beri star...⭐
 Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini. Jika Anda menemukan masalah, bug, atau memiliki saran untuk peningkatan, silakan buat issue baru dalam repositori ini atau ajukan pull request.
 
 ## Authors
-
+| [Demo-on]() | [YouTube]() | [Laporan]()
 - [mdinalayubi](https://www.github.com/mdinalayubi)
+- [roswanda](https://www.github.com/roswanda11)
