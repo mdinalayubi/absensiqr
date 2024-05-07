@@ -1,8 +1,6 @@
 # Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code
 
-
-![img]()
-
+![img](web/4.png)
 Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code adalah sebuah proyek yang bertujuan untuk mengotomatisasi proses absensi di lingkungan sekolah menggunakan teknologi QR code. Aplikasi ini dikembangkan dengan menggunakan framework CodeIgniter 4 dan didesain untuk mempermudah pengelolaan dan pencatatan kehadiran siswa dan guru.
 
 ## Fitur Utama
@@ -29,44 +27,46 @@ Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code adalah sebuah proyek yang b
 
 ### Tampilan Halaman QR Scanner
 
-![img]()
+![img](web/2.png)
 
 ### Tampilan Absen Masuk dan Pulang
 
-![img]()
+![img](web/1.png)
+![img](web/2.png)
+![img](web/3.png)
 
 ### Tampilan Login Petugas
 
-![img]()
+![img](web/1.png)
 
 ### Tampilan Dashboard Petugas
 
-![img]()
+![img](web/4.png)
 
 ### Tampilan CRUD Data Absen
 
 | Siswa (Dengan Data Kelas)                                                                                                   |                                                           Guru                                                           |
 | --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
-| ![img]() | ![img]() |
+| ![img](web/6.png) | ![img](web/7.png) |
 
 ### Tampilan Ubah Data Kehadiran
 
-![img]()
+![img](web/10.png)
 ### Tampilan CRUD Data Siswa & Guru
 
 | Siswa                                                                                                                      |                                                           Guru                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------: |
-| ![img]() | ![img]() |
+| ![img](web/6.png) | ![img](web/7.png) |
 
 ### Tampilan CRUD Data Kelas & Jurusan
 
-![img]()
+![img](web/8.png)
 
 ### Tampilan Generate QR Code dan Generate Laporan
 
 | Generate QR                                                                                                          |                                                      Generate Laporan                                                       |
 | -------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------: |
-| ![img]() | ![img]() |
+| ![img](web/qr.png) | ![img](web/9.png) |
 
 ## Cara Penggunaan
 
@@ -177,10 +177,6 @@ Jangan lupa beri star...⭐
 ## Contributing
 
 Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini. Jika Anda menemukan masalah, bug, atau memiliki saran untuk peningkatan, silakan buat issue baru dalam repositori ini atau ajukan pull request.
-
-## Lisensi
-
-[![GitHub license](https://img.shields.io/github/license/mdinalayubi/absensi-sekolah-qr-code?style=for-the-badge)](https://github.com/mdinalayubi/absensi-sekolah-qr-code/raw/master/LICENSE)
 
 ## Authors
 
